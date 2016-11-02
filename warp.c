@@ -8,7 +8,7 @@
 
 #define LIST_RES_ID 4200
 #define BASE_RES_ID 9000
-#define TMP_DIR_SUFFIX "pack\\"
+#define TMP_DIR_SUFFIX "warp\\"
 
 typedef struct resource {
   HGLOBAL hMemory;
